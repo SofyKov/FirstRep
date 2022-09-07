@@ -1,4 +1,4 @@
 Here is my second text.
 It has some different text.
 end of message.
-Added another line
+Added another line at the end
